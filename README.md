@@ -12,7 +12,7 @@
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [License](#license)
-  * 
+  
 
   ## Usage
   
