@@ -12,7 +12,7 @@
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [License](#license)
-  * 
+  
 
   ## Usage
   
@@ -42,7 +42,8 @@
   
   ## License Used in this project
   
-  - The Unlicense
+  - MIT
+  - ISC
 
   ## Questions
 
