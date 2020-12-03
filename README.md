@@ -42,7 +42,8 @@
   
   ## License Used in this project
   
-  - The Unlicense
+  - ISC
+  - MIT
 
   ## Questions
 
