@@ -42,8 +42,8 @@
   
   ## License Used in this project
   
-  - MIT
   - ISC
+  - MIT
 
   ## Questions
 
