@@ -2,7 +2,7 @@
    
   ## Description
 
-  This project is a node JS README generator. It creates READMEs whenever you need them for new projects or for updates to old projects. It completes some of the formatting and makes everything look nice and Uniform
+  This project is a node JS README generator. It creates READMEs whenever you need them for new projects or for updates to old projects. It completes some of the formatting and makes everything look nice and Uniform.
 
 
   ## Table of Contents
@@ -12,13 +12,13 @@
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [License](#license)
-  
+  * 
 
   ## Usage
   
   -To unstall the project follow the following instructions
   
-  If you have a new Project and you need a readme. This would take some of the work out of creating a new readme each time. 
+   If you have a new Project and you need a readme. This would take some of the work out of creating a new readme each time.
 
   ## Installation
   
@@ -38,7 +38,7 @@
 
   ## Tests
   - Here is a description of tests that were completed on this project before release.
-  - I ran a regression test on this initial project
+  - Regression Test
   
   ## License Used in this project
   
